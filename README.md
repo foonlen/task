@@ -1,7 +1,7 @@
 <h1>Requirements and Output</h1>
 <h2>Login page</h2>
 API URL: https://nodejstaskapi.herokuapp.com/user/login
-<p><b>Request Object</b></p>
+<p><b>Request Payload Object</b></p>
 <p>{</p>
   <p>"login_id":"developer@gmail.com",</p>
   <p>"password":"123123"</p>
@@ -10,7 +10,7 @@ API URL: https://nodejstaskapi.herokuapp.com/user/login
 
 <h2>Register page</h2>
 API URL: https://nodejstaskapi.herokuapp.com/user/register
-<p><b>Request Object</b></p>
+<p><b>Request Payload Object</b></p>
 <p>{</p>
 	<p>"full_name":"jhon",</p>
 	<p>"username":"jhon",</p>
