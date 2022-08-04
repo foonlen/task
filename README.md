@@ -52,7 +52,7 @@ API URL: https://nodejstaskapi.herokuapp.com/user/register
 <ul>
 	<li>The challenge should be delivered as a link to a public git repository (github.com or bitbucket.com are preferred).</li>
 	<li>Need to deploy it on any server where we can test this and see the demo. E.g., (https://vercel.com).</li>
-	<li>Once complete share the following details with hr@ultimez.com </li>
+	<li>Once complete share the following details with <a href="mailto:hr@ultimez.com">hr@ultimez.com</a> </li>
 	<ul>
 		<li>Hosted link</li>
 		<li>Document of Test cases</li>
