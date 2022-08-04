@@ -60,5 +60,5 @@ API URL: https://nodejstaskapi.herokuapp.com/user/register
 	</ul>
 </ul>
 
-<p>If you have any questions with this challenge, please reach us at hr@ultimez.com.</p>
+<p>If you have any questions with this challenge, please reach us at <a href="mailto:hr@ultimez.com">hr@ultimez.com</a></p>
 	
