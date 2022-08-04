@@ -6,7 +6,7 @@ API URL: https://nodejstaskapi.herokuapp.com/user/login
   <p>"login_id":"developer@gmail.com",</p>
   <p>"password":"123123"</p>
 <p>}	</p>
-![login](https://user-images.githubusercontent.com/69031050/182861977-ecbed887-6926-4785-be3b-2a376e14ad10.jpg)
+<img src="https://user-images.githubusercontent.com/69031050/182861977-ecbed887-6926-4785-be3b-2a376e14ad10.jpg" /> 
 
 <h2>Register page</h2>
 API URL: https://nodejstaskapi.herokuapp.com/user/register
@@ -20,7 +20,7 @@ API URL: https://nodejstaskapi.herokuapp.com/user/register
 	<p>"mobile_number":"8798568912",</p>
 	<p>"Password":"123123"</p>
 <p>}</p>
-![Register](https://user-images.githubusercontent.com/69031050/182862011-27e17131-996a-471c-93fb-44c6574b160f.jpg)
+<img src="https://user-images.githubusercontent.com/69031050/182862011-27e17131-996a-471c-93fb-44c6574b160f.jpg" />
 
 
 <h2>Dashboard</h2>
